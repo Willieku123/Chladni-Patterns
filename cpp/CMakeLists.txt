@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project( chladni )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+include_directories( ./include/ )
+add_executable( chladni chladni.cpp )
+target_link_libraries( chladni ${OpenCV_LIBS} )
