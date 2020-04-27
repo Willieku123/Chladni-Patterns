@@ -11,9 +11,13 @@ Tested on Windows.
 ### C++
 Runs faster. 
 Requires OpenCV and CMake. Initialize CMake stuff with: 
+
     cmake . -DOpenCV_DIR="/path/to/opencv/build/folder"
+
 To compile executable:
+
     make
+
 Tested on MacOS, should work on Linux, probably also Windows. I'm not really sure. 
 
 
