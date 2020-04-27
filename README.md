@@ -1,5 +1,5 @@
 # Chladni-Patterns
-Developed by Supreme Leader Willie Ku and Chen KB.
+Developed by Willie Ku and Supreme Leader Chen KB.
 ## What is Chladni patterns?
 Chladni patterns is a physics phenomenon created by applying constant vibration to a flexible plate.  
 
